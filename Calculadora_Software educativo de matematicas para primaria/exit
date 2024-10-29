@@ -1,0 +1,125 @@
+[33mcommit 8ab5d43b36d9024052f92bc00b1834d298507562[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Fri Oct 25 02:50:25 2024 -0400
+
+    FASE REFACTOR. en argumentsExceedLimits y argumentsExceedLimitsInverse. calculator.validateArgs
+
+[33mcommit df919ed85662a6bd0471c82667c754261f0f2c3d[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Fri Oct 25 02:26:50 2024 -0400
+
+    FASE REFACTOR. codigo duplicado, extrayendo el metodo. en validateArgs
+
+[33mcommit 2415ebf3eef87c0eb145c7b638e99bfe3f5e0839[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Fri Oct 25 02:19:02 2024 -0400
+
+    FASE REFACTOR. add y substract
+
+[33mcommit 57d6c7ef231b64476b7240f57b153ed858659ef3[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Fri Oct 25 02:15:54 2024 -0400
+
+    FASE GREEN. se agrega codigo en substract
+
+[33mcommit cd7a158ba1e5933624b0cdb8d1549e1999798aed[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Fri Oct 25 01:49:24 2024 -0400
+
+    FASE RED. el test argumentsExceedLimitsOnSubstract no pasa la prueba
+
+[33mcommit c7c326142e2e64d495e0b09f340ac0c67f1955b0[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Fri Oct 25 01:37:17 2024 -0400
+
+    FASE GREED. se agrega codigo en add
+
+[33mcommit 865f42ed19b9e371cb182d8c3ccaddc3d35ef0d6[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Fri Oct 25 01:25:09 2024 -0400
+
+    FASE RED. se implementa de manera inversa el test no paso la prueba
+
+[33mcommit 88a7496123e701bfdcb37f3e3cdcc9768b6c6817[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Fri Oct 25 01:12:27 2024 -0400
+
+    FASE GREEN. se implemento codigo en add
+
+[33mcommit 8194a62b1d94ffc186117a6d1a5857f8bb170498[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Fri Oct 25 00:50:37 2024 -0400
+
+    FASE RED. el test argumentsExceedLimits comproba los limites en ambos casos no pasa la prueba
+
+[33mcommit 3257e95eb3e06a55ec4235da3110942370cfc574[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Fri Oct 25 00:30:08 2024 -0400
+
+    FASE GREEN. se implemento verificacion limite superior add
+
+[33mcommit d07d8583c72fae1a257de39ff0c565d33315e801[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Thu Oct 24 23:32:39 2024 -0400
+
+    FASE RED. el addExcedingUpperLimit el metodo de la suma no realiza verificacion de limites el test no pasa
+
+[33mcommit f5dadb7a0e3aede817b04b79ad7aa9e6ad84defe[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Thu Oct 24 23:21:25 2024 -0400
+
+    FASE GREEN. (test que se habia dejado) substractExedingLowerLimit
+
+[33mcommit 55a6a78c70bfe58bcd023845b7878d3c05b466d3[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Thu Oct 24 15:29:57 2024 -0400
+
+    FASE GREEN. el test setAndGetLimit evalua los limites
+
+[33mcommit f66f00e4a4a5be8080f78ff206b774b3e599a5c6[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Thu Oct 24 15:24:46 2024 -0400
+
+    correccion de @Test en subtract
+
+[33mcommit e4303042bba93f58e366b574e5fdc08d64620ad4[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Thu Oct 24 15:22:50 2024 -0400
+
+    FASE GREEN. codigo minimo para que pase la prueba substract
+
+[33mcommit 0e0c3ecff7b644e8065fd8b531295846fffc0fdf[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Thu Oct 24 15:20:46 2024 -0400
+
+    FASE RED. el codigo no compila no esta implementado el metodo subtract
+
+[33mcommit eae4d3ad5b10c839914f0f312ca59f87418914d9[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Thu Oct 24 15:16:46 2024 -0400
+
+    FASE REFACTOR. se elimina el codigo duplicado
+
+[33mcommit 79894966dd6b11e7ec138d2807e76d6baf023630[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Thu Oct 24 15:12:32 2024 -0400
+
+    FASE GREEN. codigo minimo para que pase la prueba addWithDifferentArguments
+
+[33mcommit 333f1ca392b44dba51cb5ef4b59dca424f8272e8[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Thu Oct 24 15:09:34 2024 -0400
+
+    FASE RED. el test addWithDifferenArguments no pasa
+
+[33mcommit e9d55d80094883a524f2fdd670bbe2bceb38ba65[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Thu Oct 24 15:02:50 2024 -0400
+
+    FASE GREEN. codigo minimo para que pase la prueba
+
+[33mcommit 032c83ff2f5bcfe840a6e92411fd954ad36bcc5c[m
+Author: nethcor <nethcor9@gmail.com>
+Date:   Thu Oct 24 15:00:31 2024 -0400
+
+    FASE RED. caso de prueba falla e incluso no compila
